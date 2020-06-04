@@ -6,7 +6,7 @@
 #
 # PACKAGES NEEDED: ghostscript tesseract-ocr tesseract-ocr-fra imagemagick-6.q16 poppler-utils xpdf
 #
-# USAGE: 
+# USAGE: ./imgpdf2ocrpdf.sh <scanned_pdf_file>
 
 TMPDIR=./temp/
 PDFFILE=$1
